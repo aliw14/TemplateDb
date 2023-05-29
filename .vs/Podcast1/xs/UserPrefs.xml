@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{494652F3-B932-4E49-AC3A-E5BF60F38ADB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Podcast1 PreferredExecutionTarget="/Users/ali/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Podcast1/Views/Components/Footer/Default.cshtml">
+    <Files>
+      <File FileName="Podcast1/Views/Shared/_Layout.cshtml" />
+      <File FileName="Podcast1/Views/Home/Index.cshtml" />
+      <File FileName="Podcast1/appsettings.json" />
+      <File FileName="Podcast1/Controllers/HomeController.cs" />
+      <File FileName="Podcast1/DataAccessLayer/AppDbContext.cs" />
+      <File FileName="Podcast1/ViewModels/HomeViewModel.cs" Line="6" Column="15" />
+      <File FileName="Podcast1/DataAccessLayer/Entities/Footer.cs" />
+      <File FileName="Podcast1/Program.cs" />
+      <File FileName="Podcast1/Migrations/20230528153552_init.cs" />
+      <File FileName="Podcast1/Views/Components/Footer/Default.cshtml" Line="13" Column="1" />
+      <File FileName="Podcast1/ViewComponents/FooterViewComponent.cs" />
+      <File FileName="Podcast1/Migrations/AppDbContextModelSnapshot.cs" />
+      <File FileName="Podcast1/Views/Home/Privacy.cshtml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Podcast1" expanded="True">
+            <Node name="Podcast1" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="DataAccessLayer" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+              <Node name="Migrations" expanded="True" />
+              <Node name="ViewComponents" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Components" expanded="True">
+                  <Node name="Footer" expanded="True">
+                    <Node name="Default.cshtml" selected="True" />
+                  </Node>
+                </Node>
+                <Node name="Home" expanded="True" />
+                <Node name="Shared" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

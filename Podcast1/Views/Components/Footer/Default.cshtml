@@ -1,0 +1,15 @@
+﻿@using Podcast1.DataAccessLayer.Entities;
+@using Podcast1.ViewModels;
+
+@model HomeViewModel;
+
+<ul class="social-icon">
+    @foreach (var item in Model.Footer)
+    {
+        <li class="social-icon-item">
+            <a>@Html.Raw(@item.Social) </a>
+        </li>
+    }
+
+</ul>
+
