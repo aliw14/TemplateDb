@@ -1,26 +1,30 @@
 ﻿<Properties StartupConfiguration="{494652F3-B932-4E49-AC3A-E5BF60F38ADB}|Default">
-  <MonoDevelop.Ide.ItemProperties.Podcast1 PreferredExecutionTarget="/Users/ali/Desktop/Google Chrome.app" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Podcast1/Views/Components/Footer/Default.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Podcast1/DataAccessLayer/Entities/Contact.cs">
     <Files>
-      <File FileName="Podcast1/Views/Shared/_Layout.cshtml" />
-      <File FileName="Podcast1/Views/Home/Index.cshtml" />
+      <File FileName="Podcast1/Views/Shared/_Layout.cshtml" Line="65" Column="68" />
+      <File FileName="Podcast1/Views/Home/Index.cshtml" Line="1" Column="1" />
       <File FileName="Podcast1/appsettings.json" />
-      <File FileName="Podcast1/Controllers/HomeController.cs" />
-      <File FileName="Podcast1/DataAccessLayer/AppDbContext.cs" />
-      <File FileName="Podcast1/ViewModels/HomeViewModel.cs" Line="6" Column="15" />
-      <File FileName="Podcast1/DataAccessLayer/Entities/Footer.cs" />
-      <File FileName="Podcast1/Program.cs" />
+      <File FileName="Podcast1/Controllers/HomeController.cs" Line="31" Column="30" />
+      <File FileName="Podcast1/DataAccessLayer/AppDbContext.cs" Line="22" Column="1" />
+      <File FileName="Podcast1/ViewModels/HomeViewModel.cs" Line="8" Column="24" />
+      <File FileName="Podcast1/DataAccessLayer/Entities/Footer.cs" Line="1" Column="1" />
+      <File FileName="Podcast1/Program.cs" Line="33" Column="1" />
       <File FileName="Podcast1/Migrations/20230528153552_init.cs" />
       <File FileName="Podcast1/Views/Components/Footer/Default.cshtml" Line="13" Column="1" />
       <File FileName="Podcast1/ViewComponents/FooterViewComponent.cs" />
-      <File FileName="Podcast1/Migrations/AppDbContextModelSnapshot.cs" />
+      <File FileName="Podcast1/Migrations/AppDbContextModelSnapshot.cs" Line="1" Column="1" />
       <File FileName="Podcast1/Views/Home/Privacy.cshtml" />
+      <File FileName="Podcast1/Controllers/ContactController.cs" Line="20" Column="20" />
+      <File FileName="Podcast1/Views/Contact/Index.cshtml" Line="95" Column="48" />
+      <File FileName="Podcast1/DataAccessLayer/Entities/Contact.cs" Line="14" Column="1" />
+      <File FileName="Podcast1/ViewModels/ContactViewModel.cs" Line="9" Column="17" />
+      <File FileName="Podcast1/Migrations/20230529094853_Contact.cs" Line="25" Column="38" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Podcast1" expanded="True">
+          <Node name="Podcast1" expanded="True" selected="True">
             <Node name="Podcast1" expanded="True">
               <Node name="Controllers" expanded="True" />
               <Node name="DataAccessLayer" expanded="True">
@@ -31,10 +35,9 @@
               <Node name="ViewModels" expanded="True" />
               <Node name="Views" expanded="True">
                 <Node name="Components" expanded="True">
-                  <Node name="Footer" expanded="True">
-                    <Node name="Default.cshtml" selected="True" />
-                  </Node>
+                  <Node name="Footer" expanded="True" />
                 </Node>
+                <Node name="Contact" expanded="True" />
                 <Node name="Home" expanded="True" />
                 <Node name="Shared" expanded="True" />
               </Node>
@@ -44,9 +47,10 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Podcast1 PreferredExecutionTarget="/Users/ali/Desktop/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
